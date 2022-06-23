@@ -5,7 +5,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 To predict the sales price for each house.
 
 # All the Lifecycle In A Data Science Projects
-Data Analysis
+* Data Analysis
 Feature Engineering
 Feature Selection
 Model Building
