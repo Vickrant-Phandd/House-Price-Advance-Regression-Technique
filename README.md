@@ -6,7 +6,7 @@ To predict the sales price for each house.
 
 # All the Lifecycle In A Data Science Projects
 * Data Analysis
-Feature Engineering
-Feature Selection
-Model Building
-Model Deployment
+* Feature Engineering
+* Feature Selection
+* Model Building
+* Model Deployment
